@@ -3156,3 +3156,125 @@ ease-in-out-quart{ /*https://easings.net/en#easeInOutQuart*/
 .cursor-grabbing{
     cursor:zoom-out;
 }
+
+@media (min-width:575.98px){
+    .position-fixed-sm {position:fixed!important}
+    .position-static-sm{position:static!important}
+    .position-relative-sm{position:relative!important}
+    .position-sticky-sm{position:-webkit-sticky!important;position:sticky!important}
+    .position-absolute-sm{position:absolute!important}
+}
+@media (min-width: 767.98px) {
+    .position-fixed-md {position:fixed!important}
+    .position-static-md{position:static!important}
+    .position-relative-md{position:relative!important}
+    .position-sticky-md{position:-webkit-sticky!important;position:sticky!important}
+    .position-absolute-md{position:absolute!important}
+}
+@media (min-width:991.98px){
+    .position-fixed-lg {position:fixed!important}
+    .position-static-lg{position:static!important}
+    .position-relative-lg{position:relative!important}
+    .position-sticky-lg{position:-webkit-sticky!important;position:sticky!important}
+    .position-absolute-lg{position:absolute!important}
+}
+@media (min-width:1199.98px){
+    .position-fixed-xl {position:fixed!important}
+    .position-static-xl{position:static!important}
+    .position-relative-xl{position:relative!important}
+    .position-sticky-xl{position:-webkit-sticky!important;position:sticky!important}
+    .position-absolute-xl{position:absolute!important}
+}
+
+
+.font-small-1 {
+	font-size: .7rem !important
+}
+
+.font-small-2 {
+	font-size: .8rem !important
+}
+
+.font-small-3 {
+	font-size: .9rem !important
+}
+
+.font-medium-1 {
+	font-size: 1.1rem !important
+}
+
+.font-medium-2 {
+	font-size: 1.2rem !important
+}
+
+.font-medium-3 {
+	font-size: 1.3rem !important
+}
+
+.font-medium-4 {
+	font-size: 1.4rem !important
+}
+
+.font-medium-5 {
+	font-size: 1.5rem !important
+}
+
+.font-large-1 {
+	font-size: 2rem !important
+}
+
+.font-large-2 {
+	font-size: 3rem !important
+}
+
+.font-large-3 {
+	font-size: 4rem !important
+}
+
+.font-large-4 {
+	font-size: 5rem !important
+}
+
+.font-large-5 {
+	font-size: 6rem !important
+}
+
+.font-large-3 {
+	font-size: 4rem !important
+}
+
+.font-large-4 {
+	font-size: 5rem !important
+}
+
+.font-large-5 {
+	font-size: 6rem !important
+}
+
+.text-bold-300 {
+	font-weight: 300
+}
+
+.text-bold-400 {
+	font-weight: 400
+}
+
+.text-bold-500 {
+	font-weight: 500
+}
+
+.text-bold-600 {
+	font-weight: 600
+}
+
+.text-bold-700 {
+	font-weight: 700
+}
+
+.text-italic {
+	font-style: italic
+}
+
+.text-highlight {
+	padding: 4px 6px
+}
